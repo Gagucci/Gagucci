@@ -47,11 +47,13 @@
 <h2 align="center">Stats:</h2>
 
 <div align="center">
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=xuAMINE&theme=dark&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=FFFFFF" alt="GitHub Streak Stats" height="180px"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuAMINE&layout=compact&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=00FF00" alt="Top Languages" height="180px"/>
+![Gagucci's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gagucci&theme=react&hide_border=false) ![Gagucci's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gagucci&theme=react&show_icons=true&hide_border=false&layout=compact)
+
+
+
 </div>
+
 
 <h2 align="center">✨ Stuff I've Made / Worked On ✨</h2>
 
