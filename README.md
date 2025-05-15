@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=xuAMINE&theme=dark&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=FFFFFF" alt="GitHub Streak Stats" height="180px"/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuAMINE&layout=compact&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=00FF00" alt="Top Languages" height="180px"/>
