@@ -1,4 +1,4 @@
-<h1 align="center"> Hello! 👋, I'm Kevin Gagante!</h1>
+<h1 align="center"> Welcome! I'm Kevin Gagante!</h1>
 <p align="center"> 👨🏽‍💻 Full Stack Developer in Training & Aspiring Software Engineer 👨🏽‍💻 </p>
 
 ```
