@@ -12,7 +12,8 @@
 <h2 align="center"> Stuff I've Made / Worked on:</h3>
 
 <p align="center">  
-2025:
+2025:<br>
+[Accounting CLI App](https://github.com/Gagucci/Capstone-1-Accounting-Ledger-App)
 
 
 
