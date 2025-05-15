@@ -1,4 +1,5 @@
 <h1 align="center"> Hello! 👋, I'm Kevin Gagante!</h1>
+<p align="center"> 👨🏽‍💻 Full Stack Developer in Training & Aspiring Software Engineer 👨🏽‍💻 </p>
 
 ```
                                      __  __                          __              
@@ -11,8 +12,6 @@
                                                                                /\___/
                                                                                \/__/ 
 ```
-
-<p align="center"> 🚀 Full Stack Developer in Training & Aspiring Software Engineer 👨🏽‍💻 </p>
 
 <h2 align="center"> Training: </h2>
 <p align="center">
