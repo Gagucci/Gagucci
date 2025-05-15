@@ -1,5 +1,17 @@
 <h1 align="center"> Hello! 👋, I'm Kevin Gagante!</h1>
 
+```
+                     __  __                          __              
+                    /\ \/\ \                        /\ \             
+                    \ \ \_\ \    ___   __  __  __   \_\ \  __  __    
+                     \ \  _  \  / __`\/\ \/\ \/\ \  /'_` \/\ \/\ \   
+                      \ \ \ \ \/\ \L\ \ \ \_/ \_/ \/\ \L\ \ \ \_\ \  
+                       \ \_\ \_\ \____/\ \___x___/'\ \___,_\/`____ \ 
+                        \/_/\/_/\/___/  \/__//__/   \/__,_ /`/___/> \
+                                                               /\___/
+                                                               \/__/ 
+```
+
 <p align="center"> 🚀 Full Stack Developer in Training & Aspiring Software Engineer 👨🏽‍💻 </p>
 
 <h2 align="center"> Training: </h2>
@@ -11,21 +23,29 @@
 
 <h2 align="center"> Stuff I've Made / Worked on:</h3>
 
-<p align="center">  
-2025:<br>
-[Accounting CLI App](https://github.com/Gagucci/Capstone-1-Accounting-Ledger-App)
+<div align="center">  
+2025:
 
+**[Accounting CLI App](https://github.com/Gagucci/Capstone-1-Accounting-Ledger-App)**  
+*A Backend Java CLI application that handles payments and generates reports*  
 
+**[Project Two](https://github.com/yourusername/project2)**  
+*React dashboard with real-time data visualization*  
 
-</p>
+**[Project Three](https://github.com/yourusername/project3)**  
+*AI-powered chatbot using Python and NLP*  
 
+**[Portfolio Site](https://yourportfolio.com)**  
+*My personal developer portfolio (built with Next.js)*  
+</div>
+
+<h2 align="center">Stats:</h2>
 
 <div align="center">
   
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=xuAMINE&theme=dark&background=000000&ring=00FF00&fire=00FF00&currStreakLabel=00FF00&sideLabels=FFFFFF" alt="GitHub Streak Stats" height="180px"/>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xuAMINE&layout=compact&theme=dark&bg_color=000000&title_color=FFFFFF&text_color=FFFFFF&icon_color=00FF00" alt="Top Languages" height="180px"/>
-
 </div>
 
 <h2 align="center"> Follow My Journey! </h2>
