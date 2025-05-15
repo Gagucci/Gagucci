@@ -16,7 +16,7 @@
 <h2 align="center"> Training: </h2>
 <p align="center">
  Enrolled in App Development Track at Year Up United <br>
- Completed Full Stack Web Development Bootcamp at UC Berkely Extension
+ Completed Full Stack Web Development Bootcamp at UC Berkeley Extension
 <br>
 </p>
 
