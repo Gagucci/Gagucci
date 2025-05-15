@@ -1,8 +1,6 @@
 <h1 align="center"> Hello! 👋, I'm Kevin Gagante!</h1>
 
-<br>
 <p align="center"> 🚀 Full Stack Developer in Training & Aspiring Software Engineer 👨🏽‍💻 </p>
-<br>
 
 <h2 align="center"> Training: </h2>
 <p align="center">
