@@ -59,9 +59,12 @@
 
 <div align="center">
 
-### 2025  
+### 2025
+**[Knuckle's Sandwiches](https://github.com/Gagucci/KnucklesSandwiches)**  
+*A Backend Java CLI Application that Simulates a Sandwich Shop.<br>Comes with a Hardcoded UI and Allows for Order Creation, Checkout, and Recipt Printing*
+
 **[KG Accounting App](https://github.com/Gagucci/Capstone-1-Accounting-Ledger-App)**  
-*A Backend Java CLI application that handles payments and generates reports*  
+*A Backend Java CLI Application That Handles Payments and Generates Reports*  
 
 ### 2023  
 **[Pay It Forward](https://github.com/Gagucci/payitforward)**  
