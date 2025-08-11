@@ -48,7 +48,8 @@
 
 <div align="center">
 
-![Gagucci's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gagucci&theme=react&hide_border=false) ![Gagucci's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gagucci&theme=react&show_icons=true&hide_border=false&layout=compact)
+<!-- ![Gagucci's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Gagucci&theme=react&hide_border=false)--> 
+![Gagucci's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Gagucci&theme=react&show_icons=true&hide_border=false&layout=compact)
 
 
 
